@@ -23,7 +23,7 @@ body {
 }
 
 .logo {
-  background-image: url(imgs/ray-zhuang-kL3u4Tqfn1s-unsplash.jpg);
+  background-image: url(./imgs/ray-zhuang-kL3u4Tqfn1s-unsplash.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
