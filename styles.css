@@ -23,7 +23,7 @@ body {
 }
 
 .logo {
-  background-image: url('imgs/background.jpg');
+  background-image: url('https://github.com/ibrahimnneto/sign-up-form/blob/main/imgs/background.jpg?raw=true');
   background-size: cover;
   background-position: center;
   display: flex;
